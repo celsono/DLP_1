@@ -1,2 +1,3 @@
 # DLP_1
-I choose the first reference exercise
+## 所选参考题目为1.下载科学家的文章列表
+### 你可以运行main.py 文件，也可以直接运行main.exe文件！
